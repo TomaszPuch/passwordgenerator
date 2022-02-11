@@ -1,8 +1,6 @@
 #program generujacy bezpieczne hasla
 #definicje
-
 import random, pyperclip
-
 def generujhaslo():
     alfabet = "abcdefghijklmnopqrstuvwxyz"
     liczby = "1234567890"
